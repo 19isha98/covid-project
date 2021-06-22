@@ -125,7 +125,7 @@ header .navbar a.active,header .navbar a:hover{
     padding:1rem;
     text-align:center;
     border:1rem solid rgb(0,0,0,.1);
-    width:33rem;
+    width:33%;
 }
 .prevent .box-container .box img{
     height:12rem;
