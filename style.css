@@ -119,7 +119,7 @@ header .navbar a.active,header .navbar a:hover{
     /* adjuts itself acc to screen size-responsive */
 }
 .prevent .box-container .box{
-    flex:1 1 30rem;
+    flex:1 1 45rem;
     border-radius: .5rem;
     margin:1.5rem;
     padding:1rem;
