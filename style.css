@@ -121,9 +121,11 @@ header .navbar a.active,header .navbar a:hover{
 .prevent .box-container .box{
     flex:1 1 30rem;
     border-radius: .5rem;
-    margin:1.2rem;
+    margin:1.5rem;
     padding:1rem;
     text-align:center;
+    border:1rem solid rgb(0,0,0,.1);
+    width:33rem;
 }
 .prevent .box-container .box img{
     height:12rem;
